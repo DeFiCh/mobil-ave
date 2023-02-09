@@ -1,7 +1,7 @@
 # Mobil Ave
 
-This is an issue-only repo for transfering issue across different repos in the DeFiCh org to workaround by GitHub issue transfer restrictions.
-See: https://github.com/orgs/community/discussions/21979
+This is an issue-only repo for transfering issues across different repos in the DeFiCh org to workaround GitHub issue transfer restrictions.
+More info: https://github.com/orgs/community/discussions/21979
 
 ## The name
 
